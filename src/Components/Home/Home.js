@@ -15,7 +15,7 @@ const Home = () => {
 				<Link to="/about">
 					<button>More about me</button>
 				</Link><br/>
-				<button><a href="https://drive.google.com/file/d/1Vqh29X8Z9Xfjje4tl32NHz7Tsa5XH81k/view?usp=sharing">Download Resume</a></button>
+				<button><a href="https://drive.google.com/file/d/15cTCOlFCRaCWu4xZ-Nu7nkDcSVHzA38Q/view?usp=sharing">Download Resume</a></button>
 			</div>
 			<div className="person">
 				<img style={{height:'350px', width:'350px', marginLeft:'30%'}} src={picture} alt="person profile pic" />
