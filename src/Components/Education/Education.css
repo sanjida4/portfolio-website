@@ -1,0 +1,19 @@
+.education-container {
+	flex-grow: 1;
+	margin: 0px 30px;
+	margin-top: 50px;
+}
+
+.education-container h1,
+h2,
+h5 {
+	margin-bottom: 6px;
+}
+
+h5 {
+	font-weight: 400;
+}
+
+.education-section {
+	margin-bottom: 30px;
+}
