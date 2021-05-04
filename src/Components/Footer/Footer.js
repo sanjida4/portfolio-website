@@ -3,7 +3,6 @@ import "./Footer.css";
 const Footer = () => {
 	return (
 		<footer>
-			<h3 style={{fontFamily: '"Righteous", cursive'}}>Contact me-</h3><br/>
 			<a
 				href="https://www.linkedin.com/in/sanjida-promy-0856aa18a/"
 				target="_blank"

@@ -117,6 +117,17 @@ const NavBar = () => {
 								Blog
 							</Link>
 						</li>
+						<li>
+							<Link
+								to="/contact"
+								onClick={handleClose}
+								style={{
+									color: location.pathname === "/contact" && "#4071f4",
+								}}
+							>
+								Contact
+							</Link>
+						</li>
 					</ul>
 				</div>
 			</div>

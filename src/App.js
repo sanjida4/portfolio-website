@@ -9,6 +9,7 @@ import About from "./Components/About/About";
 import Projects from "./Components/Projects/Projects";
 import Experience from "./Components/Experience/Experience";
 import Blog from "./Components/Blog/Blog";
+import Contact from "./Components/Contact/Contact";
 
 function App() {
 	return (
@@ -22,6 +23,7 @@ function App() {
 					<Route exact path="/projects" component={Projects} />
 					<Route exact path="/experience" component={Experience} />
 					<Route exact path="/blog" component={Blog} />
+					<Route exact path="/contact" component={Contact} />
 				</Switch>
 				<Footer />
 			</div>
